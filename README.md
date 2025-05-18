@@ -1,2 +1,2 @@
 # -Food-Waste-Forecasting-AI-Project-
-AI-powered project predicting food waste to support SDG 2 (Zero Hunger) and SDG 12 (Responsible Consumption). Using data science to analyze waste patterns, it helps reduce food loss and promote sustainable consumption by providing actionable insights for better resource management and waste reduction.
+An AI-driven data science project forecasting food waste aligned with SDG 2 (Zero Hunger) and SDG 12 (Responsible Consumption). It analyzes waste patterns to enable efficient resource use and reduce food loss, supporting sustainable food management and informed decision-making.
