@@ -41,7 +41,7 @@ An AI-driven data science project forecasting food waste aligned with SDG 2 (Zer
 ## 5️⃣ **AI Techniques Used**  
 🤖 The project applies core machine learning methodologies, including:  
 - 🔢 **Linear Regression** for numerical prediction of food wastage quantities based on inputs such as number of people served, meal type, and day of the week.  
-- 📊 **K-Means Clustering ** for identifying patterns in food waste trends and grouping similar consumption profiles.  
+- 📊 **K-Means Clustering** for identifying patterns in food waste trends and grouping similar consumption profiles.  
 
 ---
 
