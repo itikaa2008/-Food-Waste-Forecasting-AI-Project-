@@ -15,7 +15,6 @@ Despite millions suffering from hunger, a significant portion of edible food goe
 
 ## 2️⃣ **Users / Stakeholders**  
 
-### 👥 **Users / Stakeholders**
 Our project benefits key users involved in food management and sustainability efforts:
 
 - 🍽️ **Food Service Providers:** Restaurants, canteens, and caterers who want to reduce excess food and save costs.  
