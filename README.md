@@ -6,26 +6,36 @@ An AI-driven data science project forecasting food waste aligned with SDG 2 (Zer
 # 📘 **Project Summary: Food Waste Forecasting Using AI**
 
 ## 1️⃣ **Problem Statement**  
-⚠️ Food wastage in institutional settings such as hostels, school and college canteens, and event catering remains a critical issue. Due to inaccurate estimation of food demand, a significant amount of edible food is discarded daily. This not only leads to financial loss but also contributes to environmental degradation and resource mismanagement. The lack of data-driven systems for predicting food requirements further exacerbates the problem.
+Food waste is one of the most pressing global issues of our time.
+Despite millions suffering from hunger, a significant portion of edible food goes uneaten due to poor planning and lack of forecasting. Institutions such as schools, hotels, and events often prepare more food than needed, leading to unnecessary waste. Our project aims to address this by creating an AI-based system that predicts food waste patterns and provides actionable insights, thereby helping reduce the gap between food preparation and consumption.
+
+
 
 ---
 
 ## 2️⃣ **Users / Stakeholders**  
 
-- 👨‍🍳 **Mess and canteen administrators** – to optimize food preparation and reduce wastage.  
-- 🏫 **School/college authorities** – to ensure efficient budgeting and sustainable practices.  
-- 🎉 **Event organizers** – to accurately plan catering quantities for different audience sizes.  
-- 🏢 **Non-Governmental Organizations (NGOs)** – to coordinate food donation and redistribution efforts.  
-- 🏛️ **Policy-makers and civic bodies** – to promote responsible consumption in public food services.
+### 👥 **Users / Stakeholders**
+Our project benefits key users involved in food management and sustainability efforts:
+
+- 🍽️ **Food Service Providers:** Restaurants, canteens, and caterers who want to reduce excess food and save costs.  
+- 🏛️ **Government Bodies:** Officials planning policies to reduce food waste and improve food security.  
+- 🌐 **NGOs:** Organizations working to minimize hunger by redistributing surplus food.  
+- 🏫 **Educational Institutions:** Schools and colleges aiming to lower cafeteria food wastage.  
+- 📊 **Researchers:** Data scientists studying food consumption and waste patterns.  
+- 📦 **Supply Chain Managers:** Teams handling food distribution and donation logistics.  
+
 
 ---
 
-## 3️⃣ **Objectives**  
+### 🎯 **Objectives**
 
-- Minimize over-preparation of meals.  
-- Promote responsible consumption and sustainability.  
-- Enable better planning and resource allocation.  
-- Support data-driven decision-making in food-related operations.
+- To analyze historical food waste data and identify patterns.  
+- To develop accurate AI models that predict food waste quantities in various settings.  
+- To provide actionable insights for food service providers to optimize food preparation.  
+- To support sustainability efforts by reducing avoidable food wastage.  
+- To enable efficient redistribution of surplus food to communities in need.  
+- To raise awareness about responsible consumption and production among stakeholders.  
 
 ---
 
@@ -38,32 +48,32 @@ An AI-driven data science project forecasting food waste aligned with SDG 2 (Zer
 
 ---
 
-## 5️⃣ **AI Techniques Used**  
-🤖 The project applies core machine learning methodologies, including:  
+## 5️⃣ **AI Techniques Used** 
+
+🤖 The project applies core machine learning methodologies, including: 
 - 🔢 **Linear Regression** for numerical prediction of food wastage quantities based on inputs such as number of people served, meal type, and day of the week.  
 - 📊 **K-Means Clustering** for identifying patterns in food waste trends and grouping similar consumption profiles.  
 
 ---
 
 ## 6️⃣ **Data Used**  
-📂 The dataset includes relevant parameters such as:  
-- Number of people served per meal  
-- Type and timing of meals (breakfast/lunch/dinner)  
-- Quantity of food prepared  
-- Quantity of food wasted  
-- Date and day of the week  
-- Event indicators (if applicable)  
-The data can be sourced from custom institutional records or available datasets on platforms such as Kaggle.
 
----
+- The dataset comprises records of food preparation and waste collected from various sources globally.  
+- Key attributes include date, meal type, number of people served, quantity of food prepared, and amount of food wasted.  
+- The data is either sourced from publicly available datasets or simulated to reflect real-world scenarios for global food service operations.  
+
 
 ## 7️⃣ **Proposed Solution**  
-✅ The solution involves collecting historical food consumption and waste data, training a machine learning model, and using the model to predict future food requirements. By integrating this system with simple dashboards or admin tools, decision-makers can take proactive steps to reduce waste.
+Using machine learning models, we predict how much food is likely to go to waste on a given day or under specific conditions. This allows organizations to:
 
+- Prepare the right quantity of food
+- Minimize operational and food costs
+- Reduce ecological impact
+- Donate surplus food in time
 ---
 
 ## 8️⃣ **Sustainable Development Goals (SDGs) Involved**  
-🌐 This project directly supports the following United Nations Sustainable Development Goals:  
+
 - **SDG 2 – Zero Hunger**: By reducing wastage and potentially redirecting surplus food, the project contributes to food security.  
 - **SDG 12 – Responsible Consumption and Production**: The project promotes efficient resource usage and aims to reduce the environmental footprint of food services.
 
